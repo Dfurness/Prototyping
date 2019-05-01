@@ -23,6 +23,24 @@
   color: #61dafb;
 }
 
+h1 {
+  text-align: center;
+}
+
+.button-div {
+  text-align: center;
+}
+
+.button {
+  borderRadius: '3px';
+  border: 0;
+  color: 'white';
+  height: '48px';
+  textTransform: 'uppercase';
+  padding: '0 25px';
+  boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .30)';
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

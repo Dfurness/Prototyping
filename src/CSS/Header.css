@@ -1,0 +1,69 @@
+h1{
+  color: white;
+  float: left;
+  margin-left: 20px;
+}
+
+.header {
+  background-color: black;
+}
+
+.title {
+  color: white;
+}
+
+.App-logo {
+  margin-left:auto;
+  margin-right: auto;
+  height: 80vmin;
+}
+
+.center{
+  display: block;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+.button-container {
+  padding-top: 20px;
+  margin-left: 700px;
+  margin-right: auto;
+  width: 50%;
+}
+
+.button {
+  font-family: Georgia, serif;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%
+}
+/*
+.button:hover {background-color: grey}
+
+.button:active {
+  background-color: grey;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(180deg);
+  }
+}*/
