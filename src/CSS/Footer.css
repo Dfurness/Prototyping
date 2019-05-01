@@ -1,0 +1,12 @@
+.footer {
+  background-color: black;
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+.credits-text {
+  color: white;
+  font-family: Georgia, serif;
+  margin-left: 10px;
+}
