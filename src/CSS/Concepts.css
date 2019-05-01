@@ -8,6 +8,14 @@ p{
   margin-right: 60px;
 }
 
+.p2{
+  float: right;
+}
+
+.p3 {
+  float: left;
+}
+
 .images {
   max-width: 40%;
   max-height: 40%;
@@ -17,4 +25,6 @@ p{
   float: right;
   margin: 0px 0px 15px 15px;
   display: inline-block;
+  border-radius: 10%;
+  border: 10px black;
 }
