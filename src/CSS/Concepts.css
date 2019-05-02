@@ -45,6 +45,23 @@
   border-radius: 10%;
   border:1px solid black;
   padding:0px;
+  margin-right: 1%;
+}
+
+.images-right-last {
+  max-width: 40%;
+  max-height: 40%;
+  display: inline-block;
+  padding-top: 5px;
+  padding-right: 20px;
+  float: right;
+  margin: 0px 0px 15px 15px;
+  display: inline-block;
+  border-radius: 10%;
+  border:1px solid black;
+  padding:0px;
+  margin-right: 1%;
+  margin-bottom: 10%;
 }
 
 .images-left {
