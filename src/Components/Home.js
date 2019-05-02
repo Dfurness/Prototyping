@@ -6,8 +6,10 @@ class App extends Component {
   render() {
     return (
       <div>
-      <h2>An Introduction to Prototyping</h2>
-      <img src={Image1} class="center"/>
+      <h2 className = "center">
+        Introduction to Prototyping
+      </h2>
+      <img src={Image1} className="images-center"/>
       </div>
     );
   }
