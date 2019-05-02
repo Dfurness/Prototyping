@@ -1,22 +1,39 @@
-h2{
-  margin-left: 60px;
+.concept-headers-left{
+  text-align: left;
+  margin-left: 20%;
   margin-top: 45px;
 }
 
-p{
+.concept-headers-left-2{
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 22%;
+}
+
+.concept-headers-right{
+  margin-top: 15%;
+  text-align: right;
+  margin-right: 25%;
+}
+
+.concept-p{
   margin-left: 60px;
   margin-right: 60px;
 }
 
 .p2{
   float: right;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 .p3 {
   float: left;
+  margin-left: 90px;
+  margin-right: 60px;
 }
 
-.images {
+.images-right {
   max-width: 40%;
   max-height: 40%;
   display: inline-block;
@@ -26,5 +43,24 @@ p{
   margin: 0px 0px 15px 15px;
   display: inline-block;
   border-radius: 10%;
-  border: 10px black;
+  border:1px solid black;
+  padding:0px;
+}
+
+.images-left {
+  max-width: 40%;
+  max-height: 40%;
+  display: inline-block;
+  padding-top: 5px;
+  padding-right: 20px;
+  float: left;
+  margin: 0px 30px 15px 15px;
+  display: inline-block;
+  border-radius: 10%;
+  border:1px solid black;
+  padding:0px;
+}
+
+.list{
+  margin-left: 15%;
 }
