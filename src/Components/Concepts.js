@@ -91,7 +91,7 @@ class App extends Component {
         <h2 class="concept-headers-left-2">
           Where does prototyping fall in the development cycle?
         </h2>
-        <img src={Image3} class="images-right"/>
+        <img src={Image3} class="images-right-last"/>
       </div>
       <p className="concept-p">
         Prototyping is an integral part of the development cycle. There are many
@@ -111,7 +111,7 @@ class App extends Component {
         been gathered and ideas have been formulated, it's time to build a prototype.
         A test group will evaluate the effectiveness of the prototype and provide
         feedback for the designers to take back and apply to future designs.
-        Each of these steps are key to developing a successful design. 
+        Each of these steps are key to developing a successful design.
       </p>
       </div>
     );
